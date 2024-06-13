@@ -1,0 +1,51 @@
+body {
+  background-color: rgb(26, 26, 26);
+  color: white;
+  font-family: Arial;
+}
+.moves {
+
+  height: 60px;
+  
+}
+.movebutton {
+  background-color: transparent;
+  border: 3px solid white;
+  width: 120px;
+  height: 120px;
+  border-radius: 60px;
+  margin-right: 10px;
+  cursor: pointer;
+}
+.cssresult {
+  font-size: 26px;
+  font-weight: bold;
+  margin-top: 30px;
+}
+.score {
+  margin-top: 60px;
+}
+.resetbutton {
+  background-color: white;
+  border: none;
+  font-size: 15px;
+  padding: 8px 15px;
+  cursor: pointer;
+}
+.autoplay {
+  background-color: white;
+  border: none;
+  font-size: 15px;
+  padding: 8px 15px;
+  cursor: pointer;
+
+}
+
+.cssyes, .cssno {
+  margin-left: 10px;
+  background-color: white;
+  border: none;
+  font-size: 15px;
+  padding: 6px 13px;
+
+}
